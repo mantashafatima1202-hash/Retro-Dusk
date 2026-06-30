@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.1.0.0",
+  "Title": "Retro Dusk",
+  "Thumbnail": "",
+  "Preview": "",
+  "Desc": "A WebGL-powered synthwave live wallpaper for Lively Wallpaper.",
+  "Author": "Mantasha Fatima",
+  "License": "MIT",
+  "Contact": "https://github.com/mantashafatima1202-hash/Retro-Dusk",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "",
+  "IsAbsolutePath": false
+}
